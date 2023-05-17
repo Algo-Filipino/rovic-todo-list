@@ -2,6 +2,8 @@
 
 This project was or coding challenge was developed using ReactJS. This is a simple responsive To-Do List app where you can add new tasks, edit, delete, and complete the task. See the INSTRUCTIONS below to know how to use the To-Do List App in your PC.
 
+> Wireframe (Figma) Link: [High Fidelity Wireframe using Figma](https://www.figma.com/file/VLqp1WNAWx9zflU2n434rP/React-ToDo-List-App?type=design&t=gDCGr8biwv8JOOO4-1)
+
 > Website Link: [https://rovzzz-todo-list.netlify.app/](https://rovzzz-todo-list.netlify.app/)
 
 Website Screenshot: 
